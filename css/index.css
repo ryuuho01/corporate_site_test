@@ -392,11 +392,6 @@ li:hover {
   display: inline-block;
   color: white;
 }
-.footer__nav-list-link:hover {
-  color: rgb(230, 230, 230);
-  opacity: 0.7;
-  transition: 0.3s;
-}
 
 .footer2 {
   display: none;
